@@ -4,10 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
 scipy = "*"
+finpie = "*"
+pandas = "*"
+quandl = "*"
+jupyter = "*"
+notebook = "*"
+pandas-datareader = "*"
+investpy = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
