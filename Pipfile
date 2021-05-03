@@ -7,7 +7,7 @@ name = "pypi"
 scikit-learn = "*"
 matplotlib = "*"
 scipy = "*"
-finpie = "*"
+finpie = "==0.1"
 pandas = "*"
 quandl = "*"
 jupyter = "*"
@@ -15,6 +15,7 @@ notebook = "*"
 pandas-datareader = "*"
 investpy = "*"
 sqlalchemy = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
