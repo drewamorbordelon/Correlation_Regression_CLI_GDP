@@ -1,2 +1,1 @@
-# Feature-Engineering
-A repo dedicated to feature engineering and data extraction from economic indictors. 
+A repo dedicated to analyzing indicators/features and studying correlations. 
